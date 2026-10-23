@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "nodemon http-server.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14",
+    "selfsigned": "^1.10.14"
+  }
+}
