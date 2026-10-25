@@ -1,0 +1,17 @@
+[
+    {
+        "question":"Which city is known as the 'Eternal City'?",
+        "options":["sargodha", "rome","kotmomin","lahore"],
+        "answer": 2
+    },
+    {
+        "question":"What is the capital of ireland?",
+        "options":["sargodha", "dublin","kotmomin","lahore"],
+        "answer": 2
+    },
+    {
+        "question":"What river flow through the grand canyon?",
+        "options":["sargodha", "colorado river","kotmomin","lahore"],
+        "answer": 2
+    }
+]
